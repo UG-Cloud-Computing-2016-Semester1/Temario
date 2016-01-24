@@ -1,5 +1,4 @@
-# Temario Computación en la nube
----
+# Computación en la nube
 ![UG-logo](http://res.cloudinary.com/juancrg90/image/upload/c_scale,w_100/v1453664593/UG_dyzkjm.png)
 
 Universidad de Guanajuato  
@@ -8,7 +7,6 @@ ISC. Juan Carlos Ruiz González
 JuanCrg90@gmail.com 
 
 ## Descripción del curso
------
 **Area**: Profundización  
 **Pre-requisitos** : Sistemas Administración de Datos.  
 **Materias recomendadas** : Sistemas Operativos, Aplicaciones de Internet, Sistemas de Información.  
@@ -19,8 +17,7 @@ JuanCrg90@gmail.com
 [CC2016][RGJC] Tarea XX  
 Abrir un Issue en la plataforma de Github.
 
-## Temas a tratar  
------ 
+## Temario
 
 1. Repaso de Unix  
     * Comandos del sistema operativo.
@@ -63,11 +60,15 @@ Abrir un Issue en la plataforma de Github.
 6. Arquitectura de Microservicios
 
 ## Criterios de evaluación
----
 Exámenes: 20%  
 Tareas: 20% :mortar_board: :mortar_board:  
 Exposiciones: 10%  
 Prácticas: 50%
 
+## Bibliografía  y lecturas recomendadas.
+La bibliografía se irá agregando a lo largo del curso
+
+### Notas
 :mortar_board: El tema se dará a lo largo del curso con la finalidad de tener aplicaciones para correr en la nube (en caso de que los alumnos demuestren dominio del tema, este se omitirá).  
 :mortar_board: :mortar_board: Para poder presentar los exámenes, el alumno deberá de haber entregado todas las tareas correspondientes al periodo previo al examen.
+
