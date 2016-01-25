@@ -14,7 +14,7 @@ JuanCrg90@gmail.com
 
 **Contacto:**  
 [CC2016-1][Iniciales Apellidos Nombres] Asunto a tratar  
-[CC2016][RGJC] Tarea XX  
+[CC2016-1][RGJC] Tarea XX  
 Abrir un Issue en la plataforma de Github.
 
 ## Temario
@@ -40,7 +40,7 @@ Abrir un Issue en la plataforma de Github.
          * Fork.
          * Pull request.
 3. Aplicaciones de internet con **Node.js**. :mortar_board:
-     * Javascript + Htm5 + Css3.
+     * Javascript + Html5 + Css3.
      * Node.js.
      * Bases de datos  No-SQL.
 4. Conceptos preliminares de cómputo en la nube.
@@ -76,4 +76,4 @@ La bibliografía se irá agregando a lo largo del curso.
 ### Notas
 :mortar_board: El tema se dará a lo largo del curso con la finalidad de tener aplicaciones para correr en la nube (en caso de que los alumnos demuestren dominio del tema, este se omitirá).  
 :mortar_board: :mortar_board: Para poder presentar los exámenes, el alumno deberá de haber entregado todas las tareas correspondientes al periodo previo al examen.  
-:hourglass: El alumno tiene 7 días para enviar la tarea despues de que esta se le asignó (A menos que en clase se indique lo contrario). La tarea deberá estar en linea (Servidor o repositorio) antes de la clase para ser tomada en cuenta.
+:hourglass: El alumno tiene 7 días para enviar la tarea despues de que esta se le asignó (A menos que en clase se indique lo contrario). La tarea deberá estar en linea (Servidor, repositorio o correo) antes de la clase para ser tomada en cuenta.
