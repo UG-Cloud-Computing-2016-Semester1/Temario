@@ -71,7 +71,7 @@ La bibliografía se irá agregando a lo largo del curso.
 ## Materiales y recursos para el curso
 [Github student pack.](https://education.github.com/pack)  
 [Recursos "Gratuitos" para desarrollo.](https://github.com/ripienaar/free-for-dev)
-
+[Node School](http://nodeschool.io/)  
 
 ### Notas
 :mortar_board: El tema se dará a lo largo del curso con la finalidad de tener aplicaciones para correr en la nube (en caso de que los alumnos demuestren dominio del tema, este se omitirá).  
